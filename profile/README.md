@@ -1,8 +1,18 @@
 ## 🧙 낭만을 찾아서
+안녕하세요! <img src="https://img.shields.io/badge/낭만을찾아서-3443FC?style=for-the-badge&logo=42&logoColor=FFFFFF"/> 팀입니다.
 
-안녕하세요! <img src="https://img.shields.io/badge/낭만을찾아서-3443FC?style=for-the-badge&logo=42&logoColor=FFFFFF"/> 팀입니다.</br>
-프로젝트'사이'를 마무리하며 기술에 대한 지식과 경험을 나누는 Dev Talk을 진행하였는데요.</br>
-그 발표 내용을 간단히 소개해드리고자 합니다.🙋‍</br>
+2023.04.10 ~ 2023.05.19 프로젝트 '사이'를 진행하면서
+6명의 팀원이 각자 맡은 역할을 위해 열심히 달려왔는데요.
+
+프로젝트를 마무리하며 저희 프로젝트를 구성하는 기술과 지식, 경험을 나누는 Dev Talk을 진행하였습니다.
+
+그 내용을 간단히 소개해드리고자 합니다.🙋
+
+'사이' 서비스 소개는
+[사이 레포지토리](https://github.com/people42/people42)에서
+확인하실 수 있습니다.
+‍</br>
+
 <p>
 <img width="50%" src="https://github.com/people42/.github/assets/109272545/8a2dd715-d0d9-4de7-9376-990c0dbb3799" alt="발표사진1">
 <img width="50%" src="https://github.com/people42/.github/assets/109272545/bfc35728-76a8-486e-b413-530e94a1d932" alt="발표사진2"/>
@@ -39,4 +49,4 @@
 <br>
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=3443FC&height=300&section=footer&text=Seeking%Romance&fontSize=30)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=3443FC&height=100&section=footer&text=Seeking%Romance&fontSize=30)
