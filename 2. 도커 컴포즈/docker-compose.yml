@@ -1,0 +1,12 @@
+version: "3"
+services:
+   fe42:
+     image: test
+     container_name: test
+     restart: always
+     ports:
+       - 80:80
+     environment:
+       - TZ=Asia/Seoul
+
+
